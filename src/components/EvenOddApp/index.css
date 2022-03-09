@@ -1,0 +1,33 @@
+.gradBG {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  height: 400px;
+  width: 400px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.buttons {
+  height: 40px;
+  width: 100px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  font-family: Roboto;
+  font-weight: bold;
+  outline: none;
+  cursor: pointer;
+}
+
+.abovetext {
+  color: #334155;
+  font-family: Roboto;
+  font-size: 24px;
+}
+.belowtext {
+  color: #334155;
+  font-family: Roboto;
+  font-size: 12px;
+}
